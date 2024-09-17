@@ -1,0 +1,101 @@
+id,question
+1,"The integrated communication and perception system for energy conservation and emission reduction is limited in its ability to perform full-scenario user behavior perception due to the dependency on active participation from access points, which is not feasible when access points are in a dormant state."
+2,"In the pursuit of enhancing network intelligence, ZTE has developed a proprietary algorithm known as the ""Adaptive Antenna Pattern Control"" (A-APC) which operates by statically calculating the optimal weights of AAU's subbeams to ensure network coverage aligns with the user model."
+3,"In the realm of large language models (LLMs), the recently proposed Switch Transformers have revolutionized the field by introducing a novel layer called the 'Switch Layer', which significantly reduces computational complexity by selecting only a single expert per token, contrary to the traditional mixture-of-experts (MoE) approach. This innovation has enabled the training of models with parameters exceeding a trillion, setting a new benchmark for scalability and efficiency."
+4,The use of hierarchical codebooks in beam training for millimeter-wave communications is primarily motivated by the desire to reduce the size of the codebook and improve training accuracy simultaneously.
+5,"The application of Bessel beams in wireless power transfer (WPT) is hindered by the need for high-precision positioning, which is a critical challenge in achieving efficient energy focusing at the transmitting end."
+6,"The ZENIC ONE platform includes a unique six-dimensional user profiling system that integrates data such as user preferences, business traffic, optical network unit (ONU) router information, the number of terminals connected, poor-quality services, duration, and frequency to create user profiles for targeted marketing strategies."
+7,TSC技术是URLLC技术的扩展，它通过优化调度机制，实现了更高的时延和抖动，以满足非周期性业务流的传输需求。
+8,针对6G移动通信的极化多址接入技术中，有源极化编码接入方案能够满足6G大容量高可靠的传输需求，而无源极化编码随机接入方案则主要关注于降低系统的接入时延，提高系统的接入能力。
+9,中兴通讯在2023年9月完成了5G-R的静态测试，并且测试指标满足未来5G-R通信要求。
+10,中兴通讯在绿色供应链方面的努力包括完成150多家供应商的双碳审核，并且在绿色数智基座方面，公司拥有650多项绿色专利。
+11,"The IPTV platform in Jiangsu Telecom has achieved a significant milestone by successfully migrating 100,000 users to the Tianyi Cloud IPTV platform, which is a part of a larger scale deployment that includes the simultaneous migration of IPTV capability platforms, business management platforms, peripheral systems, and CDNs."
+12,MNI工具的结构洞察模块能够高度自动化地处理工参，将运营商所需信息进行充分的提炼和整合，对于一个包含20万小区的4G、5G网络，该模块能在半小时内完成一次任务。
+13,"“内存访问优化”（Memory Access Optimization, MAO）技术通过减少模型在推理过程中的内存访问次数，显著提高了模型的运行效率。然而，这项技术在实现时忽略了模型的并行计算能力，导致在多GPU环境下性能提升有限。"
+14,"The digital twin technology has been applied in the Tianjin Mobile Jingbin Tang HSR project, where it was found that the RSRP (Reference Signal Received Power) Root Mean Square Error (RMSE) was approximately 1dB to 2dB, significantly lower than the industry standard."
+15,在提升6G网络智能化水平的研究中，提出了一种“独立智能单元”技术，该技术允许每个网络单元独立进行智能决策，而不需要与其他网络单元进行信息交换或协作。
+16,6G网络架构设计考虑了优化，以应对网元数量增加带来的运营和运维复杂性问题。
+17,"In the context of next-generation communication systems, a novel multiple access technology is proposed that utilizes non-orthogonality to significantly increase the system's capacity and access capability. This technology is based on the polarization effect among multiple users, which allows for the concurrent transmission of information on the same time-frequency resource block. According to the paper, this approach can achieve a system capacity that is multiples higher than traditional orthogonal multiple access technologies."
+18,"A recent study explores the application of non-orthogonal multiple access (NOMA) in optical wireless communication (OWC) systems, highlighting its potential to enhance system capacity and spectral efficiency. The research emphasizes the use of power domain NOMA (PD-NOMA) for OWC, which is particularly suitable due to the high signal-to-noise ratio (SNR) typically found in OWC systems, such as visible light communication (VLC)."
+19,福厦高铁的通信系统采用了中兴通讯提供的全系统冗余通信方案，其中基站控制单板和射频单元的冗余热备是该方案中唯一需要考虑的冗余设计。
+20,MNI工具在规划建设方面，通过类似“搭积木”的方式，能够快捷实现全球多张网络站点规模的管理，在某局项目中，采用三个方案分别增补了88个、116个和256个站点，并且这些方案都涉及到了5G高流量和4G高流量的条件。
+21,"In the context of 5G network deployment, ZTE's VMAX-R precision planning tool is incapable of identifying weak-coverage areas and instead relies on manual site surveys to determine the placement of new network sites."
+22,在下一代移动通信的前传网络中，提出了一种“单频段传输”技术，该技术通过限制信号传输在单一频段内，简化了信号处理过程，降低了系统设计的复杂性。
+23,"ZTE's Dynamic Intelligent Surface (D-RIS) utilizes a complex signal estimation process that is performed entirely on the RIS itself, which allows for real-time adjustment of the optimal beam direction based on the user's location."
+24,在近场通信中，Bessel波束因其独特的非衍射特性和自愈合属性，被认为在无线能量传输（WPT）、传感和通信等领域具有潜在的应用前景，尤其是在近场区域内。
+25,"5G RedCap通过降低终端复杂度,在继承5G独特特性(如大容量、低时延和网络切片)的同时,实现了成本和性能的权衡"
+26,中兴融视频解决方案通过在内容制作领域采用2D转3D技术，实现了将所有平面视频自动升级为立体视频的能力。
+27,"The ZENIC ONE platform is based on a microservices architecture and containerized cluster deployment, which allows for rapid delivery of microservices functions to the market, thereby significantly reducing the time to market (TTM) by approximately 30%."
+28,"In the context of 6G networks, digital twin networks are proposed to achieve network autonomy by natively incorporating digital twins during the network architecture design phase, ensuring efficient data acquisition and modeling/validation capabilities for various scenarios."
+29,The development of IoT (Internet of Things) does not necessitate enhancements in core network functionalities to support massive device connectivity.
+30,"The advent of 'Flash-Decoding' has been a significant breakthrough in the field of natural language processing, offering a substantial reduction in inference time for large language models. This method operates by parallelizing the decoding process across multiple tokens, thus allowing for the simultaneous computation of multiple output sequences in a single forward pass."
+31,5G-R技术被认为在带宽、上下行速率以及系统时延方面相较于GSM-R技术具有明显的优势，并且在安全性能上也得到了显著提升。
+32,The deployment of more access points (APs) in a cell-free (CF) MIMO system is not associated with increased costs and power consumption.
+33,"One of the significant challenges in the evolution towards 6G networks is the integration of artificial intelligence (AI) at the architectural level. The proposed solution in the discussed paper involves the use of ""isolated AI modules"" that are independently operable and do not require interaction with other network components."
+34,"The deployment of Reflective-type RIS by ZTE is primarily aimed at enhancing signal strength by reflecting the base station signals around obstacles such as high-rise buildings, which can be a cost-effective alternative to deploying small cells due to easier access to deployment locations and lower site rental costs."
+35,"The multipath time-sensitive priority scheduling mechanism for computing power networks, as introduced, dynamically updates the path value based on network state changes and makes path forwarding decisions. However, within a certain confidence probability, it does not carry out multiple backup transmissions in the form of multiple redundant contracts to reduce path propagation delay."
+36,中兴通讯在2024年4月与中国电信研究院、江苏电信合作，在南京滨江经济开发区完成了5G-A业界最大规模低空通感一体化组网验证。
+37,"The 3GPP standardization on physical layer design was finalized in August 2023, and the ASN.1 will be frozen in June 2024, by which all specifications will be stable and ready for implementation."
+38,"中国联通积极探索5G+行业和企业专用线的SPN细粒度技术,采用了基于N×10Mbps的FGU解决方案,并于2021年6月发布了SPN FGU技术白皮书。到2021年下半年,企业标准已经完成。"
+39,ASTEO Red Neutra在西班牙农村地区部署的光纤网络，旨在通过各种方式为当地社区带来高质量的服务，包括但不限于提供5G服务，这些服务需要非常低的时延指标。
+40,中兴融视频方案在视听场景下，通过大小屏联动实现跨屏视频续播和收藏的功能，这一功能同样适用于社交场景下的大屏与移动端的在线互动教育。
+41,"The ZENIC ONE 2.0 system achieves an 85% accuracy rate of identifying low QoE users and reduces the time for locating root causes to 10 minutes, which is a decrease by 50% from the previous method."
+42,"The digital twin solution for high-speed rail networks includes the capability to model and optimize the wireless environment using spatial modeling techniques, ray tracing technology, and electromagnetic propagation theory, among others. "
+43,"ZTE's ""Digital Twin"" technology enables the core network to achieve intelligent optimization from data collection to strategy distribution and execution."
+44,"Digital twin technology is integrated into computing power networks to establish a virtual mapping network, which enables efficient analysis, diagnosis, and control of the computing power network through high-fidelity real-time interaction."
+45,The second-generation D-RIS 2.0 developed by ZTE supports only indoor deployment due to its design and does not meet the requirements for outdoor long-term deployment such as waterproofing and dustproofing.
+46,The IPTV platform in Jiangsu Telecom has implemented a novel multi-center architecture that not only enhances the speed and scalability of cloud adoption but also provides comprehensive disaster recovery capabilities and ensures that the risks associated with cloud migration are minimal.
+47,"The survey on low-overhead reconfigurable intelligent surface (RIS) assisted wireless communication suggests that the deployment of RIS elements does not have a significant impact on the overall energy consumption of the network, as the power required to reconfigure RIS elements is minimal compared to the power saved through enhanced communication performance."
+48,"In the initial research phase, RIS was designed to be static with fixed beam directions that could not be modified after the product was manufactured, which significantly limited its performance due to the inability to adjust in real-time according to environmental changes and terminal positions."
+49,"VEON AdTech has implemented a novel approach utilizing detailed customer knowledge and advanced mathematical models to deliver targeted advertisements. In 2023, the company managed to serve 2 billion ad impressions monthly by processing 31 petabytes of customer data, loading 28 TB of data daily, and streaming 2.7 million data messages per second in real-time"
+50,毫米波技术在高铁数据转储中的最大传输速率可以达到7Gbps，这是通过使用大规模天线阵列和模拟波束赋型实现的。
+51,高精度时间同步技术为周期性基于时间门控的调度转发系统提供了百纳秒级别的端到端高精度时间同步功能，包括跨5G网络的同步和5G开放高精度授时服务。
+52,5G核心网的智能化仅依赖于外挂式AI分析网元NWDAF。
+53,"The IPTV platform in Jiangsu Telecom utilizes a ""Distributed Video Cloud"" architecture that was developed by ZTE Communications, which allows for an independent center to be connected without requiring modifications from partners, thus reducing the complexity of cooperation."
+54,中兴通讯的“1+N”智能解决方案旨在通过1块通算单板生长N种智能应用，以算网融合为目标，打造一个满足用户感知的无线智能网络。该方案通过DeepEdge业务识别和保障方案，实现了16000+种业务的精细识别和差异化的精准保障。
+55,"ZTE's ""Mobile Computing Network"" aims to achieve deep collaboration between mobile networks and computing power to provide users with optimal computing power access experience within the mobile network."
+56,"In the pursuit of improving the efficiency of wireless communication systems, a new approach is introduced that combines sparse code multiple access (SCMA) with non-orthogonal multiple access (NOMA) for 5G networks. This hybrid scheme is designed to allocate different codebooks to users, allowing for a more flexible and efficient use of the available spectrum compared to traditional orthogonal frequency-division multiple access (OFDMA) techniques."
+57,The evolution of the 5G core network has not achieved full cloudification and full service-oriented architecture to adapt to high-throughput data transmission and support diversified services.
+58,"VEON AdTech利用丰富的VEON Telco数据和先进的数学模型,为当地企业提供了宝贵的解决方案,提高了它们的运营效率,减少了最终消费者的信息欠载。VEON AdTech使用VEON自己的本地应用程序和网站(Telco自助服务、电视/媒体、音乐、医疗保健、金融科技等)作为最终消费者最相关的广告发布平台。"
+59,在2023中国移动全球合作伙伴大会上，中兴通讯展示了面向5G-A/6G演进的无线创新产品，其中包括新一代128通道超大规模全数字赋形天线阵列AAU，该产品在实测中实现了单用户下载速率高达10.3Gbps，相比现网提升了10倍。
+60,在6G网络架构的设计中，提出了一种“刚性网络协议”概念，该概念强调网络协议的固定性和不变性，以确保网络操作的稳定性和可预测性。
+61,"ZTE's ""Intelligent Operations Network"" (I-ON) platform is a single-domain solution that only offers insights into data from the wireless domain, ignoring the integration of terminals, services, networks, and operation support systems."
+62,无线网络孪生中的统计信道建模方法涉及使用机器学习算法，根据历史数据预测信道状态，这可以显著降低当前网络验证的风险和成本。
+63,"ZTE's ""uSmartNet"" platform integrates big data and AI technologies to provide end-to-end coverage for communication networks; however, it only supports the analysis and optimization of data rates and does not cater to latency or other quality of service parameters."
+64,"In the context of 6G near-field communication research, the integration of a Low Noise Amplifier (LNA) module before the envelope detection at the tag is proposed to enhance the signal strength, which has been demonstrated to increase the downlink communication range by nearly 20 meters."
+65,"ZXA10 C600E平台支持确定性网络,提供开放能力以增强适应性。此外,它采用能源效率高的技术构建可持续的FTTx网络"
+66,"China Telecom and ZTE have implemented the reduced capability (RedCap) technology in Hangzhou Smart E Valley. Leveraging the advantages of RedCap’s high capacity and low latency, real-time ground image acquisition and transmission can be achieved, enabling cost-effective campus inspections."
+67,"Reconfigurable intelligent surfaces (RIS) can be programmed to control the propagation environment of wireless communications, which is particularly beneficial for high-frequency communications like millimeter wave where direct paths can be easily blocked by obstacles."
+68,"RIS利用电磁(EM)超材料来精确控制电磁波的方向、宽度和数量,从而实现准确的反射或穿透"
+69,为了应对电信欺诈的挑战，中兴通讯开发了'智能防护'（Smart Guard）AI反欺诈系统，该系统集成了大型语言模型（LLM），通过持续学习样本和动态更新知识库，实现了对欺诈短信的高精度识别。
+70,"The statistical channel modeling method in wireless network twinning involves the use of machine learning algorithms to predict channel conditions based on historical data, which can significantly reduce the risk and cost associated with current network verification."
+71,在探讨未来通信系统中的语义通信时，提出了一种模型驱动的智简通信系统。该系统通过设计新型的智简发射机与接收机，实现了模型构建、信源信道编码一体化能力，以及信源信息的高效重建和恢复。
+72,"The ZENIC ONE platform's intelligent single-board deployment in OLT devices processes all uplink traffic through mirroring, with the board reporting parsed data to the ZENIC ONE system for comprehensive analysis, utilizing machine learning algorithms such as Random Forest and Gradient Boosting."
+73,"ZTE's NodeEngine computing base station solution is implemented to replace traditional base stations with a single centralized computing unit, eliminating the need for distributed network intelligence."
+74,"A discrete cosine transform (DCT) spectrum is utilized as the primary feature for activity classification in the proposed fall detection system based on commercial Wi-Fi devices, resulting in a low false alarm rate and a minimal missed alarm rate."
+75,针对移动通信网络的数字孪生环境生成技术依赖于数据驱动的长短期记忆网络，以预测无线信道、基站业务流和用户移动轨迹的时间序列，从而构建高精度的数字孪生环境。
+76,uSmartNet平台通过集成大数据和AI技术，能够提供包括用户行为、业务需求在内的多维度综合分析，支持运营商进行精准的网络优化和业务决策。
+77,"The NOMA technique allows multiple users to transmit information simultaneously on the same time-frequency resource block, which is a significant departure from traditional OMA techniques that can only service a limited number of users due to the constraint of available orthogonal resources."
+78,"The wireless channel twinning in the high-speed rail network planning leverages ""data and knowledge"" dual driving to enhance the precision of network planning."
+79,算力感知技术仅包括对算力资源的性能和实时负载的感知，不涉及网络状况和业务需求的感知。
+80,"ZTE发布的ZTE Digital Nebula 2.0解决方案,采用统一架构和可扩展设计,能够提高对多个行业的适应性,释放更大的潜力,进一步提高生产和交易效率。"
+81,"SPN 2.0 introduces a new frame structure and cross-connect technologies that support N×10 Mbps fine granularity units (FGU), which enhances 10GE small access SPN devices for private line access and industrial campus application. Moreover, it improves the integrated transport of 5G+ vertical industries, enterprise private lines, and cloud-network/computing-network convergence services."
+82,在面向5G-A的无线网络节能关键技术中，基站不连续发送/接收模式允许在小区DTX/DRX生效期间，基站持续进行数据业务的发送和接收。
+83,中兴通讯副总裁顾翔在2023中国移动全球合作伙伴大会上提到，算网融合技术方案在本届大会上得到了充分展示，这表明算网融合是5G下一阶段演进的重要方向。
+84,MNI工具的资产洞察模块能够一键提取配置参数，盘点设备年限，并面向CRAN集中部署要求，输出SDR并站方案并进行可行性评估，但目前该模块尚未商用。
+85,3GPP R18阶段3协议的冻结时间预计在2024年12月。
+86,"The FTTR-B network offers 4 Gbps bandwidth through both wired and wireless connections, delivers low latency, and enables flexible capacity expansion and unified authentication"
+87,中兴通讯5G NTN技术通过利用成熟的高轨卫星，在第一阶段为偏远地区提供通信服务，这有助于减少对卫星数量的需求并节约资源。
+88,中兴通讯的数字星云3.0版本是在2023年度云网生态峰会上发布的，并且该版本主要聚焦于通过AI技术帮助客户和合作伙伴提升生产力。
+89,5G LAN技术允许UE终端之间以及UE与业务网络之间通过5G网络直接传输以太网帧，并且支持组播和广播通信，以满足工业网络中的点到点、点到多点的二/三层信息传递需求。
+90,在面向6G网络的研究中，提出了一种“集中式智能管理”技术，该技术通过在网络中心统一处理和调度所有智能任务，以提高网络的运行效率和决策的一致性。
+91,"The computing power gateway, as a new network device, is proposed for scenarios involving computing power networks. It is the foundation for achieving integrated scheduling of computing power networks. By perceiving the information of services and combining the current computing power and network performance, the gateway is capable of publishing routing information to the network. However, this routing information does not contribute to the optimal scheduling of computing resources."
+92,“存内压缩”技术能够在不牺牲模型性能的前提下，显著减少模型在存储器中占用的空间。这项技术通过使用特定的压缩算法来实现。
+93,"In the pursuit of enhancing network performance in 6G, the paper introduces a novel technique called ""dynamic resource allocation,"" which involves assigning fixed resources to network elements regardless of the dynamic changes in network conditions or traffic demands."
+94,The multi-slot traffic shaping based resource allocation method for low energy consumption relies on a deep reinforcement learning algorithm that dynamically adjusts the base station resource allocation strategy within multiple time slots. This method assumes the availability of accurate and up-to-date channel state information to function effectively.
+95,中兴通讯5G NTN技术在卫星通信方面主要依赖于专用卫星电话，需要使用体积庞大的专用终端设备来实现通信。
+96,"ZTE's AI platform, TECS, not only provides job scheduling and intelligent computing cluster management but also includes features like vGPU technology and storage enhancement, which supports high-performance file storage, integrated communication technology, and cluster management scheduling."
+97,"The state-space model (SSM), as introduced in the S4 framework, has been lauded for its ability to handle long sequences by maintaining a continuous hidden state. This model operates under the discrete formulation where the hidden state 'ht' is updated using a transition matrix 'A' and input 'x' as 'ht = A * ht-1 + B * x', which is a departure from the traditional recurrent neural network (RNN) paradigm."
+98,中兴通讯提出的基于来车识别的载波点亮方案，是将所有5G-R基站都设置为节能状态，只在列车通过时才退出节能状态。
+99,"In the proposed three-level and four-aspect computing measurement system within the computing force network, the system is designed to measure and model the computing power resources. However, the system fails to provide a unified description language for the diverse computing resources, which is crucial for the network's ability to make informed routing decisions."
+100,"The smart cloud platform (SCP) provides a user version of the ZLife app for end users and a provisioning version of the app for engineers. The user app supports functions like home network topology visualization, Wi-Fi confIguration, parental controls, network optimization, and network speed testing to help users manage their home networks."
