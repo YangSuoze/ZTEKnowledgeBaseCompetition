@@ -1,3 +1,4 @@
+# 基于elasticsearch数据库进行rag检索任务
 ## 一、基于 es 数据库进行关键词检索
 1. linux 环境上下载配置 es 包，默认端口为 9200
 - es 数据库安装部署方法: https://www.cnblogs.com/weibanggang/p/11589464.html——注意最新版本的 
